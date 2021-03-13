@@ -9,5 +9,10 @@ Refactored the Horiseon website code to improve accessibility.  Changes include 
 # Combined .benefit classes into a single <div> in the .css file
 # Added empty <alt> tags to .benefit section images 
 # Added header class
+# Combined benefit h3 class to single attribute in .css file
+# Combined content img attributes in .css file
+# Combined content h2 attributes in .css file
+# Combined content div attributes in .css file
+# Combined .benefits section images in .css attributes
 
-These changes were made to improve future iterations and refinements of the codebase to ensure best practices are used.  
+These changes were made to simplify future iterations and refinements of the codebase to ensure best practices are used.  
